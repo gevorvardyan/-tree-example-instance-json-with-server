@@ -13,7 +13,7 @@ import {ImHome3} from "@react-icons/all-files/im/ImHome3";
 import {addDataThunk, deleteDataTHunk, getDataThunk} from "./redux/action/dataAction";
 
 import 'react-toastify/dist/ReactToastify.css';
-import "react-complex-tree/lib/style.css";
+import "react-complex-tree/lib/style.css"
 import css from "../src/App.module.scss";
 
 function addProp(obj, prop, tobeAdded) {
